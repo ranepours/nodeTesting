@@ -1,0 +1,19 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "Markov machine homework",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranepours/nodeTesting.git"
+  },
+  "author": "Rane Jasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranepours/nodeTesting/issues"
+  },
+  "homepage": "https://github.com/ranepours/nodeTesting#readme"
+}
